@@ -24,11 +24,14 @@ proyek, hingga penggunaan Git dan GitHub untuk mengelola kode sumber.
    Memungkinkan pengguna berpindah dari satu halaman ke halaman lainnya
    melalui navigasi yang tersedia pada aplikasi.
 
-## Cara Menjalankan Proyek
+## Cara Menjalankan
 
-Pastikan Flutter dan Dart sudah terpasang pada komputer.
+Pastikan Flutter sudah terpasang dan dapat digunakan melalui terminal.
 
-### 1. Periksa instalasi Flutter
+### 1. Periksa Konfigurasi Flutter
+
+Jalankan perintah berikut untuk memastikan Flutter sudah terpasang dan
+konfigurasinya dapat digunakan:
 
 ```bash
 flutter doctor
